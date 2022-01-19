@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="duncanbrewster.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][contact]
+[<img align="left" alt="duncanbrewster.com" width="22px" src="https://user-images.githubusercontent.com/87501964/150045058-b1c5f979-d999-4591-9f0f-7b1c6f1415c1.png" />][contact]
 [<img align="left" alt="DuncanBrewster | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
