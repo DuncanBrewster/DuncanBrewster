@@ -25,7 +25,7 @@
     <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
     <img alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
     <img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-    <img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/87501964/150043805-cb8668ef-5b37-4c92-85e3-ec6af638bfca.png" />
+    <img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/87501964/150043972-6cd9774c-8042-47d4-99f4-9012314e8974.png" />
     <img alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/bootstrap/bootstrap.png" />
 </p>
 
