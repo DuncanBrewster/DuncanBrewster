@@ -2,7 +2,6 @@
 
 
 
-- 🌱 I’m currently sharpening my React skills
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute to more open source projects
 - ⚡ Fun fact: I love strategy games, surfing, and history 
