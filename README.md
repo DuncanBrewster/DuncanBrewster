@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="duncanbrewster.com" width="22px" src="https://user-images.githubusercontent.com/87501964/150045770-9fae6341-c565-434f-89b2-01b0fc758346.png" onclick="window.open('anotherpage.html', '_blank')/>][contact]
+[<img align="left" alt="duncanbrewster.com" width="22px" src="https://user-images.githubusercontent.com/87501964/150045770-9fae6341-c565-434f-89b2-01b0fc758346.png" target="_blank" rel="noreferrer"/>][contact]
 [<img align="left" alt="DuncanBrewster | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/87501964/150046426-cd874b68-58af-492c-a677-2f14c4ba2d87.png" />][linkedin]
 
 <br />
