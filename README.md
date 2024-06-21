@@ -1,11 +1,6 @@
 ### Hi I'm [Duncan][website] 👋 
 
 
-
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute to more open source projects
-- ⚡ Fun fact: I love strategy games, surfing, and history 
-
 ### Connect with me:
 
 [<img align="left" alt="duncanbrewster.com" width="22px" src="https://user-images.githubusercontent.com/87501964/150045770-9fae6341-c565-434f-89b2-01b0fc758346.png" target="_blank" rel="noreferrer"/>][contact]
